@@ -1,0 +1,15 @@
+# Datos y modelos
+*.csv
+*.pkl
+*.h5
+data/raw/
+models/
+
+# Colab/outputs
+*.ipynb_checkpoints
+__pycache__/
+.DS_Store
+
+# Entornos
+venv/
+env/
